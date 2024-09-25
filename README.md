@@ -36,6 +36,7 @@
 
 - ## 社区
   - 互联网公司常用框架源码赏析 [GitBook](https://doocs.github.io/source-code-hunter/#/) [Github](https://github.com/doocs/source-code-hunter/tree/main)
+  - Spring源码分析 [Github](https://github.com/xuchengsheng/spring-reading)
 
 - ## 书单
   - Spring 实战(第 5 版)  [GitBook](https://potoyang.gitbook.io/spring-in-action-v5) [Github](https://github.com/PotoYang/spring-in-action-v5-translate)
